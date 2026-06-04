@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ananya 👋
 
-<!--
-**AnanyaLabs/AnanyaLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to AnanyaLabs!
 
-Here are some ideas to get you started:
+I enjoy building projects with robotics, electronics, coding, Arduino, Raspberry Pi, micro:bit, and 3D design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Areas of Interest
+- Robotics
+- Arduino
+- Raspberry Pi
+- micro:bit
+- Electronics
+- Scratch Coding
+- Python
+- 3D Design & Printing
+
+## 📂 Current Focus
+- STEM Projects
+- Robotics Activities
+- Electronics Experiments
+- 3D Design Models
+- Open Source Learning
+
+## 🌱 Learning & Building
+Always exploring new technologies and creating hands-on projects.
+
+## 🔗 Connect With Me
+LinkedIn:(https://linkedin.com/in/ananya-singh-6a3bb9264)
