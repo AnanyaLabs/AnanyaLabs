@@ -25,4 +25,4 @@ I enjoy building projects with robotics, electronics, coding, Arduino, Raspberry
 Always exploring new technologies and creating hands-on projects.
 
 ## 🔗 Connect With Me
-LinkedIn:(https://linkedin.com/in/ananya-singh-6a3bb9264)
+[LinkedIn Profile](https://linkedin.com/in/ananya-singh-6a3bb9264)
